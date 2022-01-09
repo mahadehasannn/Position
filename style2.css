@@ -1,0 +1,51 @@
+#fixed{
+    position: fixed;
+}
+#sticky{
+    position: sticky;
+}
+
+
+#relative{
+position: relative;
+
+}
+
+
+
+#absolute{
+    position: absolute;
+}
+
+#fixed img{
+     width: 150px;
+}
+
+#sticky img{ width: 100px;}
+
+
+.special{ border: 1px solid black;
+    width: 200px;
+}
+
+.swimming div{
+width: 200px;
+    position: relative;
+    left: 600px;
+    ;
+}
+
+#boy{top: 60px;
+    z-index: 2;
+
+}
+
+#ring{ z-index:1;
+
+}
+
+#water{bottom: 100px;
+    width: 200px;
+
+
+}

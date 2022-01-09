@@ -1,0 +1,28 @@
+.swimming div{
+   width: 200px; border: 1px dashed cornflowerblue ;
+
+}
+#ring{ position: relative;
+    top: 75px; 
+}
+#boy{
+ position: relative;
+ top: 150px;
+ z-index: 1;
+}
+#water{
+
+
+}
+
+
+
+
+
+.dummy{
+    height: 150px;
+    width: 250px;
+    background-color: pink;
+}
+
+
